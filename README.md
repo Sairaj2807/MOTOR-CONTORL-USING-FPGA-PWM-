@@ -33,7 +33,7 @@ The primary goal of this project is to create a motor control system using FPGA 
 
 Pulse Width Modulation (PWM) is a method used to control analog devices using digital outputs. By switching the power supply on and off at a high frequency, PWM controls the average current flowing to a device.
 
-![PWM Signals](path_to_image/PWM_signals_image.jpg)
+![Screenshot 2024-06-17 215853](https://github.com/Sairaj2807/MOTOR-CONTORL-USING-FPGA-PWM-/assets/116910851/9c9ec949-af73-4d86-9b76-7fe555dad05e)
 
 ### How PWM Works
 
