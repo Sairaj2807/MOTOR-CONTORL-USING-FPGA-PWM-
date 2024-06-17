@@ -16,7 +16,7 @@ This project demonstrates how to use an FPGA to control a DC motor using Pulse W
 
 The primary goal of this project is to create a motor control system using FPGA and PWM. The system will allow the user to control the speed of a DC motor using push buttons for incrementing and decrementing the speed.
 
-![Screenshot 2024-04-24 134839](https://github.com/Sairaj2807/MOTOR-CONTORL-USING-FPGA-PWM-/assets/116910851/9a699a2e-05e2-428b-a441-88fd975610dd)
+![Screenshot 2024-06-17 215427](https://github.com/Sairaj2807/MOTOR-CONTORL-USING-FPGA-PWM-/assets/116910851/5f271d55-870f-4d81-9b0a-1f0f5cf24703)
 
 ## Why FPGA for Motor Control
 
