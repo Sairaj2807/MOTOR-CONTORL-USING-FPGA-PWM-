@@ -131,4 +131,3 @@ For more details, refer to the provided project documentation.
 
 ---
 
-Replace `path_to_image/FPGA_board_image.jpg` and `path_to_image/PWM_signals_image.jpg` with the actual paths to the images you want to include in the README file.
